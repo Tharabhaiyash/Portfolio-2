@@ -1,5 +1,5 @@
 🌐 PortFab Portfolio Website
-Welcome to my portfolio website, PortFab! This project marks my second venture into portfolio web design. Built with HTML, CSS, and a few generative AI tools, this site aims to showcase my work across multiple fields.
+Welcome to my portfolio website, PortFab! This project marks my second venture into portfolio web design. Built with HTML, internal CSS, and a few generative AI tools, this site aims to showcase my work across multiple fields.
 
 🌟 Features
 💻 Responsive Web Design: A visually appealing layout that will soon be optimized for different screen sizes.
